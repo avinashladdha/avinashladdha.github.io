@@ -160,7 +160,7 @@ p.site-slogan {
 }
 #base {
   overflow: hidden;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(23, 23, 23, 0.8) /* rgba(255, 255, 255, 0.5);  changes made here */
 }
 #base .container {
   background-color: #000000;
