@@ -160,7 +160,7 @@ p.site-slogan {
 }
 #base {
   overflow: hidden;
-  color: rgba(23, 23, 23, 0.8) /* rgba(255, 255, 255, 0.5);  changes made here */
+  color:  rgba(255, 255, 255, 0.5);  
 }
 #base .container {
   background-color: #000000;
@@ -196,8 +196,8 @@ p.site-slogan {
 #footer {
   color: #bbb;
   color: rgba(255, 255, 255, 0.5);
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 #footermenu ul {
   margin: 0;
