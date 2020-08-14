@@ -49,10 +49,10 @@ body {
   background-color: rgba(0, 0, 0, 0);
   background-image: url("../img/sample_bg.jpg");
   background-origin: padding-box;
-  background-position: 50% 0;
+  background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover !important
-  background-attachment: scroll <!--changes made here-->
+  
   position: relative;
 }
 .primary-container-background .primary-container {
