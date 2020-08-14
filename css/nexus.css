@@ -51,7 +51,8 @@ body {
   background-origin: padding-box;
   background-position: 50% 0;
   background-repeat: no-repeat;
-  background-size: cover !important;
+  background-size: cover !important
+  background-attachment: scroll <!--changes made here-->
   position: relative;
 }
 .primary-container-background .primary-container {
