@@ -49,10 +49,9 @@ body {
   background-color: rgba(0, 0, 0, 0);
   background-image: url("../img/sample_bg.jpg");
   background-origin: padding-box;
-  background-position: 60% 0;
+  background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover !important
-  
   position: relative;
 }
 .primary-container-background .primary-container {
