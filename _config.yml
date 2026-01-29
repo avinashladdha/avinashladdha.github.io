@@ -1,0 +1,15 @@
+title: Avinash Laddha
+description: Passionate about anything data.
+theme: just-the-docs
+url: https://avinashladdha.github.io
+
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "GitHub":
+    - "https://github.com/avinashladdha/"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/avinashladdha/"
+
+footer_content: "© Copyright 2020 - All Rights Reserved"
