@@ -17,6 +17,6 @@ Seeking to be inspired, to work hard for things that are worth it, and putting a
 
 Proud BITS-Pilani Alum.
 
-[About Me](about.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Learning Journey](learning-journey.md){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Merak](merak.md){: .btn .fs-5 .mb-4 .mb-md-0 }
+[About Me](about.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Learning Journey](learning-journey.html){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Merak](merak.html){: .btn .fs-5 .mb-4 .mb-md-0 }
