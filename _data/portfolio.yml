@@ -1,0 +1,29 @@
+- title: "Customer Review Dashboard"
+  description: "Built an interactive dashboard in Streamlit using Python and NLP techniques (sentiment analysis, topic modeling) to analyze unstructured customer reviews, uncovering key insights for product and marketing strategy."
+  type: "project"
+  topics: ["NLP", "Python", "Streamlit", "Data Science"]
+  url: "#"
+
+- title: "Data Backed Referral Model"
+  description: "Developing a novel data backed referral model to come up with optimal referral bonus."
+  type: "project"
+  topics: ["Data Science", "Modeling", "Analytics"]
+  url: "#"
+
+- title: "Customer Conversion Prediction"
+  description: "Built a predictive supervised machine learning model to predict if a user installing the app will result in conversion. Achieved 93% accuracy on test set."
+  type: "project"
+  topics: ["Machine Learning", "Supervised Learning", "Predictive Analytics"]
+  url: "#"
+
+- title: "NGO Impact Assessment"
+  description: "Consulting project for VSM to help them get an insight into their program implementation and evaluation strategies. Conducted impact assessment utilizing data storytelling to streamline their grant reporting and fundraising strategy."
+  type: "project"
+  topics: ["Social Impact", "Data Storytelling", "Consulting"]
+  url: "#"
+
+- title: "Understanding Data Science in Social Sector"
+  description: "A blog post exploring the challenges and opportunities of applying data science in the social impact sector."
+  type: "blog"
+  topics: ["Data Science", "Social Impact", "Career"]
+  url: "#"
