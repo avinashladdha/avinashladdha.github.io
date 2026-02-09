@@ -15,7 +15,7 @@ Currently leading data initiatives at data.org, building resilient ETL pipelines
 
 ## Skills
 
-**BI & Visualization**: Google Looker Studio, Tableau, Metabase, PowerBI \n
+**BI & Visualization**: Google Looker Studio, Tableau, Metabase, PowerBI
 **Frameworks / Libraries**: Scikit-learn, XGBoost, Pandas, Numpy, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Django, SQLAlchemy, StatsModels, OpenAI, ChatGPT (LLMs), LangChain
 **Technologies**: Machine Learning, Deep Learning, Data Analytics, CNN, Computer Vision, Natural Language Processing (NLP), Regression, Classification, Ensemble, Statistical Analysis, Predictive Modeling, Semantic Search, Transformers
 **Data Engineering & ETL**: Python (Advanced API handling, JSON parsing, Pagination, Authentication), SQL, ETL Pipeline Design, Data Warehousing, AWS, Google Cloud, Docker, Git, Postgres, MySQL, BigQuery
