@@ -10,14 +10,12 @@ nav_order: 2
 
 ## Summary
 
-Senior Data Scientist | Social Impact & MEL Specialist Data Scientist with 5+ years of experience bridging technical data engineering and social impact strategy. \
-Currently leading data initiatives at data.org, building resilient ETL pipelines and dashboards to track global program outcomes. Expert in Python, SQL, and API integration, with a strong focus on open-source tools, ethical data management, and Monitoring, Evaluation, and Learning (MEL) frameworks for grant-funded activities.
-
+Senior Data Scientist | 5+ years of experience leveraging machine learning and advanced analytics to drive global social change. At data.org, I lead the development of automated dashboards and ETL workflows that transform disparate global datasets into strategic insights. Technical lead in Python and SQL, focused on building open-source data management frameworks and predictive models that optimize program outcomes. Expert at translating complex technical architecture into high-level organizational strategy.
 ## Skills
 
-**BI & Visualization**: Google Looker Studio, Tableau, Metabase, PowerBI \
-**Frameworks / Libraries**: Scikit-learn, XGBoost, Pandas, Numpy, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Django, SQLAlchemy, StatsModels, OpenAI, ChatGPT (LLMs), LangChain \
-**Technologies**: Machine Learning, Deep Learning, Data Analytics, CNN, Computer Vision, Natural Language Processing (NLP), Regression, Classification, Ensemble, Statistical Analysis, Predictive Modeling, Semantic Search, Transformers \
+**BI & Visualization**: Google Looker Studio, Tableau, Metabase, PowerBI
+**Frameworks / Libraries**: Scikit-learn, XGBoost, Pandas, Numpy, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Django, SQLAlchemy, StatsModels, OpenAI, ChatGPT (LLMs), LangChain
+**Technologies**: Machine Learning, Deep Learning, Data Analytics, CNN, Computer Vision, Natural Language Processing (NLP), Regression, Classification, Ensemble, Statistical Analysis, Predictive Modeling, Semantic Search, Transformers
 **Data Engineering & ETL**: Python (Advanced API handling, JSON parsing, Pagination, Authentication), SQL, ETL Pipeline Design, Data Warehousing, AWS, Google Cloud, Docker, Git, Postgres, MySQL, BigQuery
 
 ## Experience
