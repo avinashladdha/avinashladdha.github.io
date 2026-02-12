@@ -29,7 +29,7 @@
   url: "#"
 
 - title: "Epiverse Search Backend"
-  description: "Implemented a semantic search backend using text embeddings (multi-qa-MiniLM-L6-cos-v1) with FastAPI. Includes Azure Functions for data acquisition and embedding generation."
+  description: "Semantic search backend using text embeddings (multi-qa-MiniLM-L6-cos-v1) with FastAPI. Features stateless scheduled jobs (Python/R) on Azure Functions for data acquisition/embedding generation and a REST API for querying the knowledge base."
   type: "project"
   topics: ["Semantic Search", "FastAPI", "Python", "Azure Functions"]
   url: "https://github.com/epiverse-connect/epiverse-search-backend"
