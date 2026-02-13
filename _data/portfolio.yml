@@ -1,16 +1,28 @@
-- title: "Customer Review Dashboard"
+- title: "Semantic Search Backend for resource constrained enviroments."
+  description: "Semantic search backend using text embeddings (multi-qa-MiniLM-L6-cos-v1) with FastAPI. Features stateless scheduled jobs (Python/R) on Azure Functions for data acquisition/embedding generation and a REST API for querying the knowledge base."
+  type: "project"
+  topics: ["Semantic Search", "FastAPI", "Python", "Azure Functions"]
+  url: "https://github.com/epiverse-connect/epiverse-search-backend"
+
+- title: "GutGenome Intelligence: LLM-Powered Microbiome Diagnostic System"
+  description: "Developed a sophisticated LLM pipeline that transforms raw 16S rRNA gene sequencing data into clinically-grounded veterinary diagnostic reports. The system leverages Google's Gemini LLM to interpret complex taxonomic profiles, providing automated analysis of dysbiosis scores, functional pathways (such as SCFA and LPS activity), and neuroinflammatory markers. It delivers actionable health insights, including dietary sensitivity predictions and FMT suitability assessments, bridging the gap between raw genomic data and clinical decision-making."
+  type: "project"
+  topics: ["Bioinformatics", "Large Language Models", "Microbiome Analysis", "Gemini API", "Data Science"]
+  url: "https://github.com/avinashladdha/llm_reporting"
+
+- title: "Customer Review Dashboard using Topic modelling"
   description: "Built an interactive dashboard in Streamlit using Python and NLP techniques (sentiment analysis, topic modeling) to analyze unstructured customer reviews, uncovering key insights for product and marketing strategy."
   type: "project"
   topics: ["NLP", "Python", "Streamlit", "Data Science"]
   url: "#"
 
-- title: "Data Backed Referral Model"
+- title: "Data Backed Referral Model for unicorn lending app."
   description: "Developing a novel data backed referral model to come up with optimal referral bonus."
   type: "project"
   topics: ["Data Science", "Modeling", "Analytics"]
   url: "#"
 
-- title: "Customer Conversion Prediction"
+- title: "Customer Conversion Prediction to optimise ad spend"
   description: "Built a predictive supervised machine learning model to predict if a user installing the app will result in conversion. Achieved 93% accuracy on test set."
   type: "project"
   topics: ["Machine Learning", "Supervised Learning", "Predictive Analytics"]
@@ -22,14 +34,4 @@
   topics: ["Social Impact", "Data Storytelling", "Consulting"]
   url: "#"
 
-- title: "Understanding Data Science in Social Sector"
-  description: "A blog post exploring the challenges and opportunities of applying data science in the social impact sector."
-  type: "blog"
-  topics: ["Data Science", "Social Impact", "Career"]
-  url: "#"
 
-- title: "Epiverse Search Backend"
-  description: "Semantic search backend using text embeddings (multi-qa-MiniLM-L6-cos-v1) with FastAPI. Features stateless scheduled jobs (Python/R) on Azure Functions for data acquisition/embedding generation and a REST API for querying the knowledge base."
-  type: "project"
-  topics: ["Semantic Search", "FastAPI", "Python", "Azure Functions"]
-  url: "https://github.com/epiverse-connect/epiverse-search-backend"
