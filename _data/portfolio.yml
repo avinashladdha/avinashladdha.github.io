@@ -1,3 +1,9 @@
+- title: "Local RAG-Powered Semantic Search Engine for Open-Source Epidemiology Documentation"
+  description: "Built an end-to-end, offline-capable Retrieval-Augmented Generation (RAG) pipeline and semantic search backend for the Epiverse-Connect ecosystem using a two-stage retrieval system and local LLMs."
+  type: "project"
+  topics: ["Python", "FastAPI", "NLP", "Vector Search", "RAG", "PyTorch", "LLaMA 3"]
+  url: "https://github.com/avinashladdha/epiverse-search-rag/tree/main"
+
 - title: "Semantic Search Backend for resource constrained enviroments."
   description: "Semantic search backend using text embeddings (multi-qa-MiniLM-L6-cos-v1) with FastAPI. Features stateless scheduled jobs (Python/R) on Azure Functions for data acquisition/embedding generation and a REST API for querying the knowledge base."
   type: "project"
@@ -16,11 +22,7 @@
   topics: ["NLP", "Python", "Streamlit", "Data Science"]
   url: "#"
 
-- title: "Data Backed Referral Model for unicorn lending app."
-  description: "Developing a novel data backed referral model to come up with optimal referral bonus."
-  type: "project"
-  topics: ["Data Science", "Modeling", "Analytics"]
-  url: "#"
+ 
 
 - title: "Customer Conversion Prediction to optimise ad spend"
   description: "Built a predictive supervised machine learning model to predict if a user installing the app will result in conversion. Achieved 93% accuracy on test set."
