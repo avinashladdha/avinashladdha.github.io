@@ -71,9 +71,9 @@ Senior Data Scientist | 5+ years of experience leveraging machine learning and a
 
 ## Speaking Engagements
 
-* **Expert Talk: Data and Analytics for Climate | UN Women:** Presented technical frameworks and methodologies for data collection, emphasizing the critical role of rigorous data pipelines in generating high-stakes climate insights.
-* **Expert Panelist | UN Women Asia & the Pacific AI School:** Discussed ethical AI practices and current industry work with an international cohort of participants from 20+ countries.
-* **Speaker | YUVAi: Global Youth Challenge (IndiaAI & MeitY):** Delivered a session on data pipeline architecture and data privacy frameworks at DataDotOrg for shortlisted young innovators developing functional AI solutions. [View Presentation Deck](https://docs.google.com/presentation/d/1YGMxgsp-__bqwf4C-TH1NfEqZTT2U10V6HM4m5aMdi0/edit?usp=sharing)
+* **Expert Talk: Data and Analytics for Climate - UN Women:** Presented technical frameworks and methodologies for data collection, emphasizing the critical role of rigorous data pipelines in generating high-stakes climate insights.
+* **Expert Panelist - UN Women Asia & the Pacific AI School:** Discussed ethical AI practices and current industry work with an international cohort of participants from 20+ countries.
+* **Speaker - YUVAi: Global Youth Challenge (IndiaAI & MeitY):** Delivered a session on data pipeline architecture and data privacy frameworks at DataDotOrg for shortlisted young innovators developing functional AI solutions. [View Presentation Deck](https://docs.google.com/presentation/d/1YGMxgsp-__bqwf4C-TH1NfEqZTT2U10V6HM4m5aMdi0/edit?usp=sharing)
 
   
 ## Education
