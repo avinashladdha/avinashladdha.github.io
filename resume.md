@@ -10,7 +10,7 @@ nav_order: 2
 
 ## Summary
 
-Senior Data Scientist | 5+ years of experience leveraging machine learning and advanced analytics to drive global social change. At data.org, I lead the development of automated dashboards and ETL workflows that transform disparate global datasets into strategic insights. Technical lead in Python and SQL, focused on building open-source data management frameworks and predictive models that optimize program outcomes. Expert at translating complex technical architecture into high-level organizational strategy.
+Senior Data Scientist | 5+ years of experience leveraging machine learning and advanced analytics to drive impact. At data.org, I lead the development of automated dashboards and ETL workflows that transform disparate global datasets into strategic insights. Technical lead in Python and SQL, focused on building open-source data management frameworks and predictive models that optimize program outcomes. Expert at translating complex technical architecture into high-level organizational strategy.
 ## Skills
 
 **BI & Visualization**: Google Looker Studio, Tableau, Metabase, PowerBI
@@ -69,7 +69,16 @@ Senior Data Scientist | 5+ years of experience leveraging machine learning and a
 * First position at Green Campus Design contest at BITS Goa and Samadhan at BITS Pilani. The solution desgined would save 50+ KL water per month in university premises.
 * Finances Head of organizing team of Hult Prize at BITS Goa, sponsored by Hult International Business School (USA).
 
+## Speaking Engagements
+
+* **Expert Talk: Data and Analytics for Climate | UN Women:** Presented technical frameworks and methodologies for data collection, emphasizing the critical role of rigorous data pipelines in generating high-stakes climate insights.
+* **Expert Panelist | UN Women Asia & the Pacific AI School:** Discussed ethical AI practices and current industry work with an international cohort of participants from 20+ countries.
+* **Speaker | YUVAi: Global Youth Challenge (IndiaAI & MeitY):** Delivered a session on data pipeline architecture and data privacy frameworks at DataDotOrg for shortlisted young innovators developing functional AI solutions. [View Presentation Deck](https://docs.google.com/presentation/d/1YGMxgsp-__bqwf4C-TH1NfEqZTT2U10V6HM4m5aMdi0/edit?usp=sharing)
+
+  
 ## Education
 
 **BITS Pilani University, India**
-B.E(Hons.) Chemical + M.Sc(Hons.) Chemistry (2014-2019)
+B.E(Hons.) Chemical + M.Sc(Hons.) Chemistry 
+
+
