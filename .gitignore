@@ -1,0 +1,4 @@
+portfolio/static/portfolio/assets/assets/
+__pycache__
+db.sqlite3
+staticfiles
