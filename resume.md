@@ -84,4 +84,6 @@ B.E(Hons.) Chemical + M.Sc(Hons.) Chemistry
 **Financial Risk Manager (FRM) L1**
 Global Association of Risk Professionals (GARP)
 
+**Data Scientist with Python(26-course certificate program)**
+DataCamp
 
