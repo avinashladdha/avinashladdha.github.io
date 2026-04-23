@@ -10,7 +10,7 @@ nav_order: 2
 
 ## Summary
 
-Senior Data Scientist | 5+ years of experience leveraging machine learning and advanced analytics to drive impact. At data.org, I lead the development of automated dashboards and ETL workflows that transform disparate global datasets into strategic insights. Technical lead in Python and SQL, focused on building open-source data management frameworks and predictive models that optimize program outcomes. Expert at translating complex technical architecture into high-level organizational strategy.
+Senior Data Scientist | 7+ years of experience leveraging machine learning and advanced analytics to drive impact. At data.org, I lead the development of automated dashboards and ETL workflows that transform disparate global datasets into strategic insights. Technical lead in Python and SQL, focused on building open-source data management frameworks and predictive models that optimize program outcomes. Expert at translating complex technical architecture into high-level organizational strategy.
 ## Skills
 
 **BI & Visualization**: Google Looker Studio, Tableau, Metabase, PowerBI
@@ -80,5 +80,8 @@ Senior Data Scientist | 5+ years of experience leveraging machine learning and a
 
 **BITS Pilani University, India**
 B.E(Hons.) Chemical + M.Sc(Hons.) Chemistry 
+
+**Financial Risk Manager (FRM) L1**
+Global Association of Risk Professionals (GARP)
 
 
